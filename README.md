@@ -12,6 +12,6 @@
 ## Videos
 
 [How to install Kamailio?](https://github.com/Omid-Mohajerani/Learn-Kamailio/blob/main/screenshots/How_to_install_Kamailio.png?raw=true)
-[![How to install Kamailio?](https://github.com/Omid-Mohajerani/Learn-Kamailio/blob/main/screenshots/How_to_install_Kamailio.png?raw=true)](https://www.youtube.com/watch?v=Ptdu6YIYk7s)
+[![How to install Kamailio?](https://www.youtube.com/watch?v=Ptdu6YIYk7s)](https://www.youtube.com/watch?v=Ptdu6YIYk7s)
 
 
