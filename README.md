@@ -13,5 +13,6 @@
  - [Transcoding using RTPEngine + Kamailio](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Kamailio---RTPEngine-Transcoding)
  - [Kamailio Dispatcher Module](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Kamailio-Dispatcher-Module---Load-Balance-between-FreeSWITCH-voicemail-servers)
  - [Maximum Ring Time](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/fr_inv_timer)
+ - [app_lua Module in Kamailio](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/app_lua-Module-in-Kamailio)
  
 
