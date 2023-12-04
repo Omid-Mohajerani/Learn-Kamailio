@@ -15,4 +15,6 @@
  - [Maximum Ring Time](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/fr_inv_timer)
  - [app_lua Module in Kamailio](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/app_lua-Module-in-Kamailio)
  
+## Learn Kamailio By Doing
 
+ - [Part 01 - Installation](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Learn-Kamailio-By-Doing-Part01-Installation)
