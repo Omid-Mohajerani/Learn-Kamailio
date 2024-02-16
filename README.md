@@ -18,3 +18,7 @@
 ## Learn Kamailio By Doing
 
  - [Part 01 - Installation](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Learn-Kamailio-By-Doing-Part01-Installation)
+
+## SIP
+
+ - [What is a sip transaction?](https://www.youtube.com/watch?v=xcZ8k6u5lqE&t=256s)
