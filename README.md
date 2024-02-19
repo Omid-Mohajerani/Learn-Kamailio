@@ -22,3 +22,6 @@
 ## SIP
 
  - [What is a sip transaction?](https://www.youtube.com/watch?v=xcZ8k6u5lqE&t=256s)
+
+## Misc
+ - [WireGaurd VPN on debian 12](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/WireGaurd-on-Debian-12)
