@@ -25,3 +25,4 @@
 
 ## Misc
  - [WireGaurd VPN on debian 12](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/WireGaurd-on-Debian-12)
+ - [Rtpproxy on debian 12](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Installing-rtpproxy-on-Debian-12)
