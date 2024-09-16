@@ -26,3 +26,4 @@
 ## Misc
  - [WireGaurd VPN on debian 12](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/WireGaurd-on-Debian-12)
  - [Rtpproxy on debian 12](https://github.com/Omid-Mohajerani/Learn-Kamailio/wiki/Installing-rtpproxy-on-Debian-12)
+ - [Capture and Monitor your SIP Network Traffic with HOMER](https://www.youtube.com/watch?v=sZOad2JVfe4&list=PLcrU7LQXdqpfvvsEV3AGvXoTyQ7uGLyve&index=11)
